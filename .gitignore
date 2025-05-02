@@ -33,4 +33,5 @@
 
 build/
 *.pro.user
-*.pro.user.*
+
+*.20dec89
